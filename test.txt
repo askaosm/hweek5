@@ -1,2 +1,6 @@
 here is master
+<<<<<<< HEAD
 here is branch1
+=======
+here is branch2
+>>>>>>> branch2
